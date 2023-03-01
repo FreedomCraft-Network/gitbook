@@ -21,15 +21,14 @@ Every vote rewards the player $100 of in-game currency
 
 <summary>➮ Chance Rewards:</summary>
 
-* 25% - $250
-* 20% - Death Effects Cubelet
-* 20% - Balloons Cubelet
-* 20% - Banners Cubelet
-* 10% - $500
-* 10% - Music Cubelet
-* 10% - Miniatures Cubelet
-* 5% - Statuses Cubelet
-* 5% - Arrow Effects Cubelet
+* 25% - $100
+* 25% - Death Effects Cubelet
+* 15% - $250
+* 10% - Balloons Cubelet
+* 10% - Banners Cubelet
+* 5% - Music Cubelet
+* 5% - Miniatures Cubelet
+* 3% - Arrow Effects Cubelet
 * 2% - Particle Effects Cubelet
 
 </details>
