@@ -8,9 +8,19 @@
 
 ## Network Information
 
-* [Global](network-information/global.md)
-* [Dungeons](network-information/dungeons.md)
-* [Creative](network-information/creative.md)
+* [Discord](network-information/discord/README.md)
+  * [Link: Minecraft - Discord](network-information/discord/link-minecraft-discord.md)
+* [Store](network-information/store/README.md)
+  * [Consumables](network-information/store/consumables.md)
+  * [Ranks](network-information/store/ranks.md)
+  * [FAQ](network-information/store/faq.md)
+* [Rules](https://freedomcraftmc.com/rules)
+
+## Servers
+
+* [Global](servers/global.md)
+* [Dungeons](servers/dungeons.md)
+* [Creative](servers/creative.md)
 
 ## 🎫 Support Information
 
