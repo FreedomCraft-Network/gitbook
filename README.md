@@ -4,6 +4,8 @@
 This documentation is a work-in-progress. There may be errors or typos in the guides, however we're constantly working to improve them.
 {% endhint %}
 
+{% embed url="https://freedomcraftmc.com" %}
+
 <figure><img src=".gitbook/assets/about_us.png" alt=""><figcaption></figcaption></figure>
 
 ### _➮_ General Info

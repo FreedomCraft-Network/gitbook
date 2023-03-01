@@ -19,9 +19,13 @@ description: 'Server IP: play.freedomcraftmc.com'
 * Launch an instance of Minecraft (Version 1.18.2 Recommended)
 * Open the Multiplayer menu
 * Click "Add server"
-* Paste the IP above into the "Server Address" Field
+* Paste the IP: <mark style="color:blue;">play.freedomcraftmc.com</mark> into the "Server Address" Field
 * Change "Sever Resource Packs:" to **Enabled** or **Prompt**
 * Select "Done" and you should now see FreedomCraft Network in your Server List
 * You can now join and explore the content on FreedomCraftMC
+
+{% embed url="https://freedomcraftmc.com" %}
+
+
 
 [^1]: 

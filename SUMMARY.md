@@ -25,11 +25,14 @@
   * [Getting Started](servers/dungeons/getting-started.md)
   * [Player Commands](servers/dungeons/player-commands.md)
   * [Guides](servers/dungeons/guides/README.md)
+    * [World Information](servers/dungeons/guides/world-information.md)
     * [Guild Ranks](servers/dungeons/guides/guild-ranks.md)
     * [Prestige Ranks](servers/dungeons/guides/prestige-ranks.md)
     * [Item Stats](servers/dungeons/guides/item-stats.md)
+    * [mcMMO](servers/dungeons/guides/mcmmo.md)
     * [BloodMoon Event](servers/dungeons/guides/bloodmoon-event.md)
     * [Dungeon Instances](servers/dungeons/guides/dungeon-instances.md)
+    * [Voting](servers/dungeons/guides/voting.md)
 * [Creative](servers/creative/README.md)
   * [Getting Started](servers/creative/getting-started.md)
   * [Player Commands](servers/creative/player-commands.md)
@@ -49,6 +52,7 @@
 
 ## 🔗 Links
 
-* [Website](https://freedomcraftmc.com)
-* [Discord](https://freedomcraftmc.com/discord)
-* [GitHub](https://github.com/FreedomCraft-Network/)
+* [🌐 Website](https://freedomcraftmc.com)
+* [🗺 Live Map](https://map.freedomcraftmc.com/)
+* [💬 Discord](https://freedomcraftmc.com/discord)
+* [💻 GitHub](https://github.com/FreedomCraft-Network/)
