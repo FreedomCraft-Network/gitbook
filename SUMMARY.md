@@ -50,3 +50,5 @@
 ## 🔗 Links
 
 * [Website](https://freedomcraftmc.com)
+* [Discord](https://freedomcraftmc.com/discord)
+* [GitHub](https://github.com/FreedomCraft-Network/)

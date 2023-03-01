@@ -13,3 +13,15 @@ If you are a novice/beginner Dungeons player, we recommend starting with the "Tu
 Once you've established a base with resources and some farms to keep yourself fed, begin conquering our wide range of Dungeons to Level Up, Unlock Rewards and progress your way to the top of the leaderboards.
 
 ## _➮_ Page Links
+
+{% content-ref url="guides/guild-ranks.md" %}
+[guild-ranks.md](guides/guild-ranks.md)
+{% endcontent-ref %}
+
+{% content-ref url="guides/bloodmoon-event.md" %}
+[bloodmoon-event.md](guides/bloodmoon-event.md)
+{% endcontent-ref %}
+
+{% content-ref url="guides/dungeon-instances.md" %}
+[dungeon-instances.md](guides/dungeon-instances.md)
+{% endcontent-ref %}
