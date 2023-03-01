@@ -18,9 +18,26 @@
 
 ## Servers
 
-* [Global](servers/global.md)
-* [Dungeons](servers/dungeons.md)
-* [Creative](servers/creative.md)
+* [Global](servers/global/README.md)
+  * [Navigating the Network](servers/global/navigating-the-network.md)
+  * [General Commands](servers/global/general-commands.md)
+* [Dungeons](servers/dungeons/README.md)
+  * [Getting Started](servers/dungeons/getting-started.md)
+  * [Player Commands](servers/dungeons/player-commands.md)
+  * [Guides](servers/dungeons/guides/README.md)
+    * [Guild Ranks](servers/dungeons/guides/guild-ranks.md)
+    * [Prestige Ranks](servers/dungeons/guides/prestige-ranks.md)
+    * [Item Stats](servers/dungeons/guides/item-stats.md)
+    * [BloodMoon Event](servers/dungeons/guides/bloodmoon-event.md)
+    * [Dungeon Instances](servers/dungeons/guides/dungeon-instances.md)
+* [Creative](servers/creative/README.md)
+  * [Getting Started](servers/creative/getting-started.md)
+  * [Player Commands](servers/creative/player-commands.md)
+  * [Guides](servers/creative/guides/README.md)
+    * [Creating & Managing Plots](servers/creative/guides/creating-and-managing-plots.md)
+    * [World Edit: Beginners](servers/creative/guides/world-edit-beginners.md)
+    * [World Edit: Beyond the Basics](servers/creative/guides/world-edit-beyond-the-basics.md)
+    * [Cosmetics](servers/creative/guides/cosmetics.md)
 
 ## 🎫 Support Information
 
