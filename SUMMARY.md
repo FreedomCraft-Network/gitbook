@@ -10,6 +10,7 @@
 
 * [Discord](network-information/discord/README.md)
   * [Link: Minecraft - Discord](network-information/discord/link-minecraft-discord.md)
+  * [Discord Invite](https://freedomcraftmc.com/discord)
 * [Store](network-information/store/README.md)
   * [Consumables](network-information/store/consumables.md)
   * [Ranks](network-information/store/ranks.md)
