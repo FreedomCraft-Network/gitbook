@@ -29,6 +29,7 @@
 * /balancetop | /baltop
 * /pay
 * /shop
+* /jobs
 * /quests
 
 </details>
@@ -47,8 +48,10 @@
 
 <summary>➮ Utility</summary>
 
+* /chair \<on|off>
 * /cosmetics
 * /playtime
 * /uptime
+* /fix   <mark style="color:red;">`[Cost: $250]`</mark>
 
 </details>
