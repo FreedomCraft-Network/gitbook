@@ -36,6 +36,21 @@
 
 <details>
 
+<summary>➮ Lands</summary>
+
+* /lands create | /lands delete
+* /lands claim | /lands unclaim
+* /lands deposit | /lands withdraw
+* /lands trust | /lands untrust
+* /lands view | /lands map
+* /lands setspawn
+* /lands chat
+* /lands top
+
+</details>
+
+<details>
+
 <summary>➮ Social</summary>
 
 * /profile
