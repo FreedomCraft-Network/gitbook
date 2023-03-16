@@ -22,14 +22,160 @@ Jobs experience and payouts do not carry over into [Dungeon Instances](dungeon-i
 
 ## _➮ Quests_
 
-Quests are another means of making money for players both starting out or very late into the game. Typing <mark style="color:orange;">`/shop`</mark> will open up the Quests Menu, which has numerous options to pick from! Quests are only completable while they are active, so choose your three possible active quests wisely.\
+Quests are another means of making money for players both starting out or very late into the game. Typing <mark style="color:orange;">`/quests`</mark> will open up the Quests Menu, which has numerous options to pick from! Quests are only completable while they are active, so choose your three possible active quests wisely.\
 \
 Quests have multiple stages, and completing the later stages of a particular quest type reward more money! This system is incredibly useful for getting started with your first [Minions](economy.md#minions).
 
-Similarly to [Jobs](economy.md#jobs), Quests are not active within [Dungeon Instances](dungeon-instances.md) and are purely on the Dungeons Survival server.
+Similar to [Jobs](economy.md#jobs), Quests are not active within [Dungeon Instances](dungeon-instances.md) and are purely on the Dungeons Survival server.
 
 ## _➮_ Minions
 
-Minions are incredibly expensive, but are also very rewarding! They are sources of nearly passive income, generating anything from crops, building blocks, and even rare ores at the cost of various fuel types.\
+Minions are incredibly expensive but are also very rewarding! They are sources of nearly passive income, generating anything from crops, building blocks, and even rare ores at the cost of various fuel types.\
 \
 Minions are for largely established players who have been working on collecting money for some time. It is also important to have a strong base defense with sturdy walls and a thick roof to protect these Minions and the blocks that they stand on during the [Blood Moon Event](bloodmoon-event.md).
+
+{% tabs %}
+{% tab title="Farmer Minon" %}
+## _Purchase Cost_: $50,000
+
+## _➮ Cost:_
+
+| Upgrades     | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| ------------ | ------- | ------- | ------- | ------- | ------- |
+| Growth Cycle | $0      | $10000  | $15000  | $20000  | $30000  |
+| Radius       | $0      | $2500   | $5000   | $7500   | $10000  |
+| Storage      | $0      | $100    | $500    | $1000   | $2500   |
+
+
+
+## _➮ Value:_
+
+| Upgrades               | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| ---------------------- | ------- | ------- | ------- | ------- | ------- |
+| Growth Cycle (seconds) | 120     | 80      | 60      | 30      | 15      |
+| Radius                 | 1       | 2       | 3       | 5       | 6       |
+| Storage                | 9       | 18      | 27      | 36      | 45      |
+
+## __
+
+## _➮ Fuel:_
+
+* Nether Star - 6 hours
+* Lava Bucket - 1 hour
+* Emerald - 60 seconds
+* Diamond - 60 seconds
+* Gold Ingot - 45 seconds
+* Iron Ingot - 45 seconds
+* Copper Ingot - 45 seconds
+* Coal - 15 seconds
+* Blaze Powder - 15 seconds
+{% endtab %}
+
+{% tab title="Lumberjack Minon" %}
+## _Purchase Cost_: $25,000
+
+## _➮ Cost:_
+
+| Upgrades     | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| ------------ | ------- | ------- | ------- | ------- | ------- |
+| Growth Cycle | $0      | $10000  | $15000  | $20000  | $30000  |
+| Radius       | $0      | $2500   | $5000   | $7500   | $10000  |
+| Storage      | $0      | $100    | $500    | $1000   | $2500   |
+
+
+
+## _➮ Value:_
+
+| Upgrades               | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| ---------------------- | ------- | ------- | ------- | ------- | ------- |
+| Growth Cycle (seconds) | 120     | 80      | 60      | 30      | 15      |
+| Radius                 | 1       | 2       | 3       | 5       | 6       |
+| Storage                | 9       | 18      | 27      | 36      | 45      |
+
+## __
+
+## _➮ Fuel:_
+
+* Nether Star - 6 hours
+* Lava Bucket - 1 hour
+* Emerald - 60 seconds
+* Diamond - 60 seconds
+* Gold Ingot - 45 seconds
+* Iron Ingot - 45 seconds
+* Copper Ingot - 45 seconds
+* Coal - 15 seconds
+* Blaze Powder - 15 seconds
+{% endtab %}
+
+{% tab title="Excavator Minion" %}
+## _Purchase Cost_: $25,000
+
+## _➮ Cost:_
+
+| Upgrades     | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| ------------ | ------- | ------- | ------- | ------- | ------- |
+| Growth Cycle | $0      | $10000  | $15000  | $20000  | $30000  |
+| Radius       | $0      | $2500   | $5000   | $7500   | $10000  |
+| Storage      | $0      | $100    | $500    | $1000   | $2500   |
+
+
+
+## _➮ Value:_
+
+| Upgrades               | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| ---------------------- | ------- | ------- | ------- | ------- | ------- |
+| Growth Cycle (seconds) | 120     | 80      | 60      | 30      | 15      |
+| Radius                 | 1       | 2       | 3       | 5       | 6       |
+| Storage                | 9       | 18      | 27      | 36      | 45      |
+
+## __
+
+## _➮ Fuel:_
+
+* Nether Star - 6 hours
+* Lava Bucket - 1 hour
+* Emerald - 60 seconds
+* Diamond - 60 seconds
+* Gold Ingot - 45 seconds
+* Iron Ingot - 45 seconds
+* Copper Ingot - 45 seconds
+* Coal - 15 seconds
+* Blaze Powder - 15 seconds
+{% endtab %}
+
+{% tab title="Quarry Minon" %}
+## _Purchase Cost_: $25,000
+
+## _➮ Cost:_
+
+| Upgrades     | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| ------------ | ------- | ------- | ------- | ------- | ------- |
+| Growth Cycle | $0      | $10000  | $15000  | $20000  | $30000  |
+| Radius       | $0      | $2500   | $5000   | $7500   | $10000  |
+| Storage      | $0      | $100    | $500    | $1000   | $2500   |
+
+
+
+## _➮ Value:_
+
+| Upgrades               | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| ---------------------- | ------- | ------- | ------- | ------- | ------- |
+| Growth Cycle (seconds) | 120     | 80      | 60      | 30      | 15      |
+| Radius                 | 1       | 2       | 3       | 5       | 6       |
+| Storage                | 9       | 18      | 27      | 36      | 45      |
+
+## __
+
+## _➮ Fuel:_
+
+* Nether Star - 6 hours
+* Lava Bucket - 1 hour
+* Emerald - 60 seconds
+* Diamond - 60 seconds
+* Gold Ingot - 45 seconds
+* Iron Ingot - 45 seconds
+* Copper Ingot - 45 seconds
+* Coal - 15 seconds
+* Blaze Powder - 15 seconds
+{% endtab %}
+{% endtabs %}
