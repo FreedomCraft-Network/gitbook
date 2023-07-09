@@ -10,8 +10,7 @@ description: 'Server IP: play.freedomcraftmc.com'
 
 * Stable Internet Connection
 * Premium Java Minecraft Account or Bedrock Edition Account
-* MC Client Version 1.18.2 or newer&#x20;
-  * __[_DISCLAIMER: v1.19.3 breaks the Server Resource Pack_](#user-content-fn-1)[^1]__
+* MC Client Version 1.18.2 or newer
 * Server Resource Packs Enabled
 
 ## _➮_ Joining FreedomCraftMC
@@ -26,6 +25,3 @@ description: 'Server IP: play.freedomcraftmc.com'
 
 {% embed url="https://freedomcraftmc.com" %}
 
-
-
-[^1]: 
