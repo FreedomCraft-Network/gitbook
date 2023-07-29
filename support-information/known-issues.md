@@ -1,9 +1,9 @@
 # Known Issues
 
-## None... :stuck\_out\_tongue\_winking\_eye:
-
-Haha, kidding this section is still "Under Construction"
-
 {% hint style="danger" %}
-Coming Soon!
+Under Construction! 
 {% endhint %}
+
+## Dungeons
+- Smithing Tables do not work on 1.20+
+- Mob Models and Item Textures are not compatible with Bedrock
