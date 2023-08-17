@@ -32,7 +32,6 @@
     * [Prestige Ranks](servers/dungeons/guides/prestige-ranks.md)
     * [Economy](servers/dungeons/guides/economy.md)
     * [Item Stats](servers/dungeons/guides/item-stats.md)
-    * [mcMMO](servers/dungeons/guides/mcmmo.md)
     * [BloodMoon Event](servers/dungeons/guides/bloodmoon-event.md)
     * [Dungeon Instances](servers/dungeons/guides/dungeon-instances.md)
     * [Voting](servers/dungeons/guides/voting.md)
