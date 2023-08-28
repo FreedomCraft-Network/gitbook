@@ -17,3 +17,8 @@
 * /vote
 * /votetop
 * /voterewards
+
+## _➮_ Help
+
+* /help
+* /guide
