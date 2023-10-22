@@ -40,23 +40,15 @@ Minions are for largely established players who have been working on collecting 
 
 ## _➮ Cost:_
 
-| Upgrades     | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-| ------------ | ------- | ------- | ------- | ------- | ------- |
-| Growth Cycle | $0      | $10000  | $15000  | $20000  | $30000  |
-| Radius       | $0      | $2500   | $5000   | $7500   | $10000  |
-| Storage      | $0      | $100    | $500    | $1000   | $2500   |
+<table><thead><tr><th width="192">Upgrades</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle</td><td>$0</td><td>$10000</td><td>$15000</td><td>$20000</td><td>$30000</td></tr><tr><td>Radius</td><td>$0</td><td>$2500</td><td>$5000</td><td>$7500</td><td>$10000</td></tr><tr><td>Storage</td><td>$0</td><td>$100</td><td>$500</td><td>$1000</td><td>$2500</td></tr></tbody></table>
 
 
 
 ## _➮ Value:_
 
-| Upgrades               | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-| ---------------------- | ------- | ------- | ------- | ------- | ------- |
-| Growth Cycle (seconds) | 120     | 80      | 60      | 30      | 15      |
-| Radius                 | 1       | 2       | 3       | 5       | 6       |
-| Storage                | 9       | 18      | 27      | 36      | 45      |
+<table><thead><tr><th width="234">Upgrades</th><th width="88">Level 1</th><th width="91">Level 2</th><th width="94">Level 3</th><th width="91">Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle (seconds)</td><td>120</td><td>80</td><td>60</td><td>30</td><td>15</td></tr><tr><td>Radius</td><td>1</td><td>2</td><td>3</td><td>5</td><td>6</td></tr><tr><td>Storage</td><td>9</td><td>18</td><td>27</td><td>36</td><td>45</td></tr></tbody></table>
 
-## __
+##
 
 ## _➮ Fuel:_
 
@@ -76,23 +68,15 @@ Minions are for largely established players who have been working on collecting 
 
 ## _➮ Cost:_
 
-| Upgrades     | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-| ------------ | ------- | ------- | ------- | ------- | ------- |
-| Growth Cycle | $0      | $10000  | $15000  | $20000  | $30000  |
-| Radius       | $0      | $2500   | $5000   | $7500   | $10000  |
-| Storage      | $0      | $100    | $500    | $1000   | $2500   |
+<table><thead><tr><th width="192">Upgrades</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle</td><td>$0</td><td>$10000</td><td>$15000</td><td>$20000</td><td>$30000</td></tr><tr><td>Radius</td><td>$0</td><td>$2500</td><td>$5000</td><td>$7500</td><td>$10000</td></tr><tr><td>Storage</td><td>$0</td><td>$100</td><td>$500</td><td>$1000</td><td>$2500</td></tr></tbody></table>
 
 
 
 ## _➮ Value:_
 
-| Upgrades               | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-| ---------------------- | ------- | ------- | ------- | ------- | ------- |
-| Growth Cycle (seconds) | 120     | 80      | 60      | 30      | 15      |
-| Radius                 | 1       | 2       | 3       | 5       | 6       |
-| Storage                | 9       | 18      | 27      | 36      | 45      |
+<table><thead><tr><th width="234">Upgrades</th><th width="88">Level 1</th><th width="91">Level 2</th><th width="94">Level 3</th><th width="91">Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle (seconds)</td><td>120</td><td>80</td><td>60</td><td>30</td><td>15</td></tr><tr><td>Radius</td><td>1</td><td>2</td><td>3</td><td>5</td><td>6</td></tr><tr><td>Storage</td><td>9</td><td>18</td><td>27</td><td>36</td><td>45</td></tr></tbody></table>
 
-## __
+##
 
 ## _➮ Fuel:_
 
@@ -112,23 +96,15 @@ Minions are for largely established players who have been working on collecting 
 
 ## _➮ Cost:_
 
-| Upgrades     | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-| ------------ | ------- | ------- | ------- | ------- | ------- |
-| Growth Cycle | $0      | $10000  | $15000  | $20000  | $30000  |
-| Radius       | $0      | $2500   | $5000   | $7500   | $10000  |
-| Storage      | $0      | $100    | $500    | $1000   | $2500   |
+<table><thead><tr><th width="192">Upgrades</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle</td><td>$0</td><td>$10000</td><td>$15000</td><td>$20000</td><td>$30000</td></tr><tr><td>Radius</td><td>$0</td><td>$2500</td><td>$5000</td><td>$7500</td><td>$10000</td></tr><tr><td>Storage</td><td>$0</td><td>$100</td><td>$500</td><td>$1000</td><td>$2500</td></tr></tbody></table>
 
 
 
 ## _➮ Value:_
 
-| Upgrades               | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-| ---------------------- | ------- | ------- | ------- | ------- | ------- |
-| Growth Cycle (seconds) | 120     | 80      | 60      | 30      | 15      |
-| Radius                 | 1       | 2       | 3       | 5       | 6       |
-| Storage                | 9       | 18      | 27      | 36      | 45      |
+<table><thead><tr><th width="234">Upgrades</th><th width="88">Level 1</th><th width="91">Level 2</th><th width="94">Level 3</th><th width="91">Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle (seconds)</td><td>120</td><td>80</td><td>60</td><td>30</td><td>15</td></tr><tr><td>Radius</td><td>1</td><td>2</td><td>3</td><td>5</td><td>6</td></tr><tr><td>Storage</td><td>9</td><td>18</td><td>27</td><td>36</td><td>45</td></tr></tbody></table>
 
-## __
+##
 
 ## _➮ Fuel:_
 
@@ -148,23 +124,15 @@ Minions are for largely established players who have been working on collecting 
 
 ## _➮ Cost:_
 
-| Upgrades     | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-| ------------ | ------- | ------- | ------- | ------- | ------- |
-| Growth Cycle | $0      | $10000  | $15000  | $20000  | $30000  |
-| Radius       | $0      | $2500   | $5000   | $7500   | $10000  |
-| Storage      | $0      | $100    | $500    | $1000   | $2500   |
+<table><thead><tr><th width="192">Upgrades</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle</td><td>$0</td><td>$10000</td><td>$15000</td><td>$20000</td><td>$30000</td></tr><tr><td>Radius</td><td>$0</td><td>$2500</td><td>$5000</td><td>$7500</td><td>$10000</td></tr><tr><td>Storage</td><td>$0</td><td>$100</td><td>$500</td><td>$1000</td><td>$2500</td></tr></tbody></table>
 
 
 
 ## _➮ Value:_
 
-| Upgrades               | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
-| ---------------------- | ------- | ------- | ------- | ------- | ------- |
-| Growth Cycle (seconds) | 120     | 80      | 60      | 30      | 15      |
-| Radius                 | 1       | 2       | 3       | 5       | 6       |
-| Storage                | 9       | 18      | 27      | 36      | 45      |
+<table><thead><tr><th width="234">Upgrades</th><th width="88">Level 1</th><th width="91">Level 2</th><th width="94">Level 3</th><th width="91">Level 4</th><th>Level 5</th></tr></thead><tbody><tr><td>Growth Cycle (seconds)</td><td>120</td><td>80</td><td>60</td><td>30</td><td>15</td></tr><tr><td>Radius</td><td>1</td><td>2</td><td>3</td><td>5</td><td>6</td></tr><tr><td>Storage</td><td>9</td><td>18</td><td>27</td><td>36</td><td>45</td></tr></tbody></table>
 
-## __
+##
 
 ## _➮ Fuel:_
 

@@ -11,10 +11,11 @@
 * [Discord](network-information/discord/README.md)
   * [Link: Minecraft - Discord](network-information/discord/link-minecraft-discord.md)
   * [Discord Invite](https://freedomcraftmc.com/discord)
+  * [Discord Invite](https://freedomcraftmc.com/discord)
 * [Store](network-information/store/README.md)
-  * [Consumables](network-information/store/consumables.md)
   * [Ranks](network-information/store/ranks.md)
   * [FAQ](network-information/store/faq.md)
+* [Rules](https://freedomcraftmc.com/rules)
 * [Rules](https://freedomcraftmc.com/rules)
 
 ## Servers
@@ -25,7 +26,7 @@
 * [Dungeons](servers/dungeons/README.md)
   * [Getting Started](servers/dungeons/getting-started.md)
   * [Player Commands](servers/dungeons/player-commands.md)
-  * [Guides](servers/dungeons/guides/README.md)
+  * [Guides](servers/creative/guides/README.md)
     * [World Information](servers/dungeons/guides/world-information.md)
     * [Land Claiming](servers/dungeons/guides/land-claiming.md)
     * [Guild Ranks](servers/dungeons/guides/guild-ranks.md)
@@ -38,7 +39,7 @@
 * [Creative](servers/creative/README.md)
   * [Getting Started](servers/creative/getting-started.md)
   * [Player Commands](servers/creative/player-commands.md)
-  * [Guides](servers/creative/guides/README.md)
+  * [Guides](servers/dungeons/guides/README.md)
     * [Creating & Managing Plots](servers/creative/guides/creating-and-managing-plots.md)
     * [World Edit: Beginners](servers/creative/guides/world-edit-beginners.md)
     * [World Edit: Beyond the Basics](servers/creative/guides/world-edit-beyond-the-basics.md)
@@ -54,6 +55,11 @@
 
 ## 🔗 Links
 
+* [🌐 Website](https://freedomcraftmc.com)
+* [📶 Status](https://uptime.freedomcraft.systems)
+* [🗺 Live Map](https://map.freedomcraftmc.com/)
+* [💬 Discord](https://freedomcraftmc.com/discord)
+* [💻 GitHub](https://github.com/FreedomCraft-Network/)
 * [🌐 Website](https://freedomcraftmc.com)
 * [📶 Status](https://uptime.freedomcraft.systems)
 * [🗺 Live Map](https://map.freedomcraftmc.com/)

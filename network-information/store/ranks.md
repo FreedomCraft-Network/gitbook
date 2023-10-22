@@ -1,6 +1,6 @@
 # Ranks
 
-{% embed url="https://shop.freedomcraftmc.com/category/277788" %}
+{% embed url="https://www.freedomcraft.shop/category/306354" %}
 
 {% tabs %}
 {% tab title="Backer" %}

@@ -1,7 +1,5 @@
 # Store
 
-{% embed url="https://shop.freedomcraftmc.com/category/306354" %}
-
 ## _➮_ Introduction
 
 All purchases should apply instantly but it may take up to 5 minutes to receive your rank/package_._\
@@ -16,11 +14,7 @@ Payments are handled and secured by CraftingStore.net via PayPal & Stripe Secure
 
 ## _➮_ What can you buy?
 
-The [FreedomCraft Store](https://shop.freedomcraftmc.com/) is an online shop you can use to purchase a range of items that you are able to use and show off in-game! These items can range from Global Ranks, Cosmetics and Promotional Keys.&#x20;
 
-{% content-ref url="consumables.md" %}
-[consumables.md](consumables.md)
-{% endcontent-ref %}
 
 {% content-ref url="ranks.md" %}
 [ranks.md](ranks.md)

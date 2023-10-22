@@ -1,6 +1,6 @@
 # FAQ
 
-{% embed url="https://shop.freedomcraftmc.com/category/295823" %}
+{% embed url="https://www.freedomcraft.shop/category/295823" %}
 
 **Q: I purchased something in the store but I haven't received it in-game!**\
 \
@@ -10,7 +10,7 @@
 
 
 **Q: What payment method can I use to purchase something from the store?**\
-****\
+\
 **A:** We have a variety of payments methods available through our checkout, all of the available options are presented to you when you proceed to checkout. The options that you see available to you are localized based on the country you are in.
 
 
