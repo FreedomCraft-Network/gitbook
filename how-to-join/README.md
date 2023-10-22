@@ -4,7 +4,7 @@ description: 'Server IP: play.freedomcraftmc.com'
 
 # How to Join?
 
-<figure><img src="../.gitbook/assets/FreedomCraftBanner.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/banner.gif" alt=""><figcaption></figcaption></figure>
 
 ## _➮_ Requirements
 
