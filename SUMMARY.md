@@ -56,7 +56,7 @@
 ## 🔗 Links
 
 * [🌐 Website](https://freedomcraftmc.com)
-* [📶 Status](https://uptime.freedomcraft.systems)
+* [📶 Status](https://heartbeat.freedomcraft.systems)
 * [🗺 Live Map](https://map.freedomcraftmc.com/)
 * [💬 Discord](https://freedomcraftmc.com/discord)
 * [💻 GitHub](https://github.com/FreedomCraft-Network/)
