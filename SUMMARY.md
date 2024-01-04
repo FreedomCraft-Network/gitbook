@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ℹ About Us](README.md)
-  * [Mod List Info](about-us/mod-list-info.md)
+  * [Mod List Info](readme/mod-list-info.md)
 * [How to Join?](how-to-join/README.md)
   * [Supported Platforms](how-to-join/supported-platforms.md)
   * [Bedrock Edition](how-to-join/bedrock-edition.md)
@@ -26,7 +26,7 @@
 * [Dungeons](servers/dungeons/README.md)
   * [Getting Started](servers/dungeons/getting-started.md)
   * [Player Commands](servers/dungeons/player-commands.md)
-  * [Guides](servers/creative/guides/README.md)
+  * [Guides](servers/dungeons/guides/README.md)
     * [World Information](servers/dungeons/guides/world-information.md)
     * [Land Claiming](servers/dungeons/guides/land-claiming.md)
     * [Guild Ranks](servers/dungeons/guides/guild-ranks.md)
@@ -39,7 +39,7 @@
 * [Creative](servers/creative/README.md)
   * [Getting Started](servers/creative/getting-started.md)
   * [Player Commands](servers/creative/player-commands.md)
-  * [Guides](servers/dungeons/guides/README.md)
+  * [Guides](servers/creative/guides/README.md)
     * [Creating & Managing Plots](servers/creative/guides/creating-and-managing-plots.md)
     * [World Edit: Beginners](servers/creative/guides/world-edit-beginners.md)
     * [World Edit: Beyond the Basics](servers/creative/guides/world-edit-beyond-the-basics.md)
@@ -60,3 +60,4 @@
 * [🗺 Live Map](https://map.freedomcraftmc.com/)
 * [💬 Discord](https://freedomcraftmc.com/discord)
 * [💻 GitHub](https://github.com/FreedomCraft-Network/)
+* [💻 Git](https://git.freedomcraft.systems/FreedomCraft)
