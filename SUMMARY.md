@@ -16,7 +16,6 @@
   * [Ranks](network-information/store/ranks.md)
   * [FAQ](network-information/store/faq.md)
 * [Rules](https://freedomcraftmc.com/rules)
-* [Rules](https://freedomcraftmc.com/rules)
 
 ## Servers
 
@@ -59,5 +58,4 @@
 * [📶 Status](https://heartbeat.freedomcraft.systems)
 * [🗺 Live Map](https://map.freedomcraftmc.com/)
 * [💬 Discord](https://freedomcraftmc.com/discord)
-* [💻 GitHub](https://github.com/FreedomCraft-Network/)
 * [💻 Git](https://git.freedomcraft.systems/FreedomCraft)
