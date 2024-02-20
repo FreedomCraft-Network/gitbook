@@ -36,7 +36,7 @@ Minions are for largely established players who have been working on collecting 
 
 {% tabs %}
 {% tab title="Farmer Minon" %}
-## _Purchase Cost_: $50,000
+## _Purchase Cost_: $25,000
 
 ## _➮ Cost:_
 
