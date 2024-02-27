@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ℹ About Us](README.md)
+* [ℹ️ About Us](README.md)
   * [Mod List Info](readme/mod-list-info.md)
 * [How to Join?](how-to-join/README.md)
   * [Supported Platforms](how-to-join/supported-platforms.md)
@@ -56,6 +56,7 @@
 
 * [🌐 Website](https://freedomcraftmc.com)
 * [📶 Status](https://heartbeat.freedomcraft.systems)
-* [🗺 Live Map](https://map.freedomcraftmc.com/)
+* [🗺️ Live Map](https://map.freedomcraftmc.com/)
 * [💬 Discord](https://freedomcraftmc.com/discord)
 * [💻 Git](https://git.freedomcraft.systems/FreedomCraft)
+* [🎨 Resource Pack](https://freedomcraftmc.com/resource-pack/)
